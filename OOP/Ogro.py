@@ -1,4 +1,4 @@
-from enemigo import *
+from Enemigo import *
 
 class Ogro(Enemigo):
     def __int__(self, puntos_energia=20, ataque=3):
